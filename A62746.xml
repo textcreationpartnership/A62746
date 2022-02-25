@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King and both Houses of Parliament the suffering condition of the peaceable people, called Quakers, only for tender conscience towards almighty God, humbly presented.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62746</idno>
+            <idno type="STC">Wing T1491</idno>
+            <idno type="STC">ESTC R213682</idno>
+            <idno type="EEBO-CITATION">99826004</idno>
+            <idno type="PROQUEST">99826004</idno>
+            <idno type="VID">30396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30396)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1859:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King and both Houses of Parliament the suffering condition of the peaceable people, called Quakers, only for tender conscience towards almighty God, humbly presented.</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Disbound and mounted.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30396:1" rendition="simple:additions"/>
+            <head>TO THE KING AND Both Houſes OF PARLIAMENT <hi>The Suffering Condition of the peaceable People, called</hi> QUAKERS, <hi>Only for tender Conſcience towards Almighty God, Humbly Preſented.</hi>
+            </head>
+            <p>
+               <hi>SHewing,</hi> That of late above <hi>One Thouſand five Hundred</hi> of the ſaid People (both Men and Women) having been detained Priſoners in <hi>England,</hi> and part of them in <hi>Wales</hi> (ſome of which being ſince diſcharged by the Judges, and others freed by Death, through their long and tedious Impriſonment) there are now remaining (according to late Accounts) about <hi>One Thouſand, three Hundred, Eighty &amp; Three,</hi> above <hi>Two Hundred</hi> of them <hi>Women.</hi> Many under Sentence of <hi>Premunire</hi> (both Men and Women) and more than <hi>Three Hundred</hi> near it; not for denying the Duty, or refuſing the ſubſtance of Allegiance it ſelf, but only becauſe they dare not <hi>Swear:</hi> Many on Writs of <hi>Excommunication,</hi> and <hi>Fines</hi> for the King, and upon the Act for <hi>Baniſhment.</hi> Beſides above <hi>Three Hundred</hi> and <hi>Twenty</hi> have Dyed in Priſon and Priſoners ſince the Year 1660. near <hi>One Hundred</hi> whereof by means of this long Impriſonment (as 'tis judg'd) ſince the Account delivered to the late King and Parliament, in 1680. thereby making Widdows and Fatherleſs, and leaving them in Diſtreſs and Sorrow: The two laſt hard Winters Reſtraint, and the cloſe Confinement of great Numbers in divers Goals, unavoidably tending towards their Deſtruction, their Healths being evidently impaired thereby.</p>
+            <p>And here in <hi>London,</hi> the Goal of <hi>Newgate</hi> hath been from time to time crowded, within theſe two years, (ſometimes near Twenty in one Room) to the Prejudice of their Health; and ſeveral poor innocent Trades-men, of late, have been ſo ſuffocated by the cloſeneſs of the Priſon, that they have been taken out ſick of a Malignant Feaver, and dyed in a few days after.</p>
+            <p>Beſides theſe long continued and Deſtructive Hardſhips upon the Perſons of Men and Women, as aforeſaid, <hi>great Violences, outragious Diſtreſſes,</hi> and <hi>woful Havock</hi> and <hi>Spoil</hi> have been, and ſtill are frequently made upon our Goods and Eſtates, both in and about this City of <hi>London,</hi> and other parts of this Nation, by a company of Idle Extravagant ☞ and Mercileſs Informers, and their Proſecutions upon the <hi>Conventicle Act,</hi> many being convicted and fined <hi>
+                  <g ref="char:V">Ʋ</g>nſummoned</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nheard</hi> in their own defence. As alſo on <hi>Qui Tam</hi> Writs, at the Suit of Informers (who proſecute for one third part for themſelves) and on other Proceſſes, for <hi>Twenty Pound a Moneth,</hi> and <hi>Two Thirds of Eſtates,</hi> ſeized for the
+<pb n="2" facs="tcp:30396:2"/>King: All tending to the <hi>Ruin</hi> of <hi>Trade, Husbandry</hi> and <hi>Farmers,</hi> and the <hi>Impoveriſhing</hi> of many <hi>Induſtrious Families,</hi> without Compaſſion ſhewn to <hi>Widdows, Fatherleſs</hi> or <hi>Deſolate.</hi> To ſome not a <hi>Bed</hi> left to reſt upon; to others, no <hi>Cattel</hi> to till their Ground, nor <hi>Corn</hi> for Bread or Seed, nor <hi>Tools</hi> to Work withal: The ſaid Informers and Sheriffs Bailiffs in ſome places being <hi>Outragious</hi> and <hi>Exceſſive</hi> in their <hi>Diſtreſſes</hi> and <hi>Seizures,</hi> breaking into Houſes, and making great Waſte and Spoil. And all theſe and other Severities done againſt us by them, under pretence of ſerving the <hi>King</hi> and the <hi>Church,</hi> thereby to force us to a <hi>Conformity,</hi> without inward <hi>Conviction</hi> or <hi>Satisfaction</hi> of our tender Conſciences, wherein our Peace with God is concerned, which we are very tender of.</p>
+            <p>The Statutes on which we, the ſaid People ſuffer <hi>Impriſonment, Diſtreſs</hi> and <hi>Spoil,</hi> are as followeth.</p>
+            <list>
+               <item>The 5th of <hi>Eliz. chap.</hi> 23. <hi>De Excommunicato Capiendo.</hi>
+               </item>
+               <item>The 23d of <hi>Eliz. ch.</hi> 1. <hi>for twenty Pound per Moneth.</hi>
+               </item>
+               <item>The 29th of <hi>Eliz. ch.</hi> 6. for <hi>Continuation.</hi>
+               </item>
+               <item>The 35th of <hi>Eliz. ch.</hi> 1. for <hi>Abjuring the Realm, on pain of Death.</hi>
+               </item>
+               <item>The 1ſt of <hi>Eliz. ch.</hi> 2. for <hi>twelve pence a Sunday.</hi>
+               </item>
+               <item>The 3d of K. <hi>James</hi> 1. <hi>ch.</hi> 4. for <hi>Praemunire, Impriſonment during Life, and Eſtates confiſcated.</hi>
+               </item>
+               <item>The 13th and 14th of K. <hi>Charles</hi> 2. <hi>againſt Quakers, &amp;c. Tranſportation.</hi>
+               </item>
+               <item>The 22d of K. <hi>Charles</hi> 2. <hi>ch.</hi> 1. againſt <hi>Seditious Conventicles.</hi>
+               </item>
+               <item>The 17th of K. <hi>Charles</hi> 2. <hi>chap.</hi> 2. againſt <hi>Non-Conformiſts.</hi>
+               </item>
+               <item>The 27th of <hi>Hen.</hi> 8. <hi>ch.</hi> 20. ſome few ſuffer thereupon.</item>
+            </list>
+            <p>Upon Indictments at <hi>Common Law,</hi> pretended and framed againſt our peaceable Religious Aſſemblies, for <hi>Riots, Routs, Breach of the Peace, &amp;c.</hi> Many, both Men and Women, thereupon fined, impriſon'd and detained for Non-payment, ſome till Death. Inſtance the City of <hi>Bristol,</hi> what a great Number have been theſe divers years ſtraitly confined and crowded in Goal, moſtly above <hi>One Hundred</hi> on ſuch pretence, about <hi>Seventy</hi> of them Women, many aged. And in the City of <hi>Norwich,</hi> in the years 1682, &amp; 83. about <hi>Seventy</hi> kept in hold, <hi>Forty Five</hi> whereof in Holes and Dungeon, for many weeks together, and great Hardſhips have been, and are in other places. So that ſuch our peaceable Meetings are ſometimes fined on the <hi>Conventicle Act,</hi> as for a <hi>Religious Exerciſe,</hi> and other times at <hi>common Law,</hi> as <hi>Riotous, Routous, &amp;c.</hi> when nothing of that Nature could ever be proved againſt them, there being nothing of <hi>Violence</hi> or <hi>Injury</hi> either <hi>done, threatned</hi> or <hi>intended</hi> againſt the Perſon or Property of any other whatſoever.</p>
+            <p>The during and tedious <hi>Impriſonments</hi> are chiefly on the Writs <hi>De Excommunicato Capi<g ref="char:EOLhyphen"/>endo,</hi> upon the Judgment of <hi>Praemunire,</hi> and upon <hi>Fines,</hi> ſaid to be for the King.</p>
+            <p>The <hi>great Spoil</hi> and <hi>exceſſive Diſtreſſes</hi> and <hi>Seizures,</hi> are chiefly upon the <hi>Conventicle Act,</hi> and for <hi>Twenty Pound a Moneth, Two Thirds of Estates,</hi> and on <hi>Qui Tam Writs.</hi> In ſome Counties, divers have ſuffered by <hi>Seizures</hi> and <hi>Diſtreſſes</hi> above eight years laſt paſt, and Writs lately iſſued out for further Seizures in ſeveral Counties, for <hi>Twenty Pound a Moneth,</hi> amounting to the Value of many <hi>Thouſands</hi> of <hi>Pounds,</hi> ſometimes ſeizing for eleaven Moneths at once, and making Sale of all Goods and Chattels, within Doors and without, both of <hi>Houſe-hold Goods, Beds, Shop-Goods, Moveables, Cattel, &amp;c.</hi> and proſecution here<g ref="char:EOLhyphen"/>upon ſtill continued, and in divers Counties much increaſed. So that ſeveral, who have long imployed ſome <hi>Hundreds</hi> of poor Families in Manufacture, and paid conſiderable Taxes to the King, are greatly diſabled from both, by theſe Writs and Seizures, as well as by long Impriſonments. So many Serge-makers of <hi>Plymouth,</hi> as kept above <hi>five Hundred</hi> poor People at work, diſabled by Impriſonment: Many in the County of <hi>Suffolk,</hi> under a long Impriſonment, ſentenced to a <hi>Praemunire,</hi> one whereof imploy'd at leaſt <hi>Two Hundred</hi> poor People in the Woollen Manufacture, when at liberty. Omitting other Inſtances, that we may not ſeem too tedious, theſe may evince how Deſtructive ſuch Severities are to Trade and Induſtry, and Ruinous to many poor Families.</p>
+            <p>On the <hi>Conventicle Act,</hi> within theſe two years laſt paſt, many <hi>in &amp; about this City of London,</hi> have been extreamly oppreſſed, impaired and ſpoiled in their Eſtates and Trades, upon Numerous Convictions and Warrants made againſt them in their <hi>Abſence,</hi> upon the credit of Informations ſworn by <hi>concealed Informers,</hi> divers of them <hi>Impudent Women,</hi> who ſwear for their profit in part of the Fines and Seizures, their Husbands being Priſoners for Debt, through their own Extravagancies. The Warrants commonly made to break open &amp; enter Houſes, which is done with Rigour and great Spoil, not ſparing <hi>Widdows, Fatherleſs</hi> or <hi>poor Families,</hi> who are ſuſtain'd by their daily care and induſtry, not leaving them a Bed to reſt upon: The <hi>Fines</hi> upon one Juſtice's Warrants amounting to many <hi>Hundreds of Pounds:</hi> frequently <hi>Ten Pound</hi> a Warrant, and two Warrants at once for <hi>Twenty Pound</hi> executed upon one Perſon: and three Warrants at once from another Juſtice, for <hi>Sixty Pound</hi> upon another Perſon, and all his Goods carried away in about <hi>Ten Cart-Loads;</hi> and five
+<pb n="3" facs="tcp:30396:3"/>Warrants at once for <hi>Fifty Pound</hi> upon another, &amp;c. beſides what we have ſuffer'd by others in the like kind. And in this Deſtructive Courſe the <hi>Informers</hi> have Encouragement, and are ſuffered ſtill to go on, to the Ruining many Families in their Trades and Livelihoods; divers ſo diſcourag'd and diſabled, that they are forc'd to give over their Shops and Trades.</p>
+            <p>Theſe <hi>Informers</hi> being accepted for credible Witneſſes, <hi>yet Parties, Swearing for their own Profit and Gain, in the abſence of the Perſons proſecuted;</hi> This we think is very hard, and undue Proceeding, and not conſiſtent with Common Law or Juſtice</p>
+            <p>As alſo Convicting and Fining us upon their Depoſitions, <hi>
+                  <g ref="char:V">Ʋ</g>nſummon'd</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nheard</hi> in our own defence, and ſo keeping us ignorant of our Accuſers (unleſs upon Traverſe of our <hi>Appeals</hi>) This Procedure appears contrary to the Law <hi>(a)</hi> of God, common Juſtice &amp; Equity, and to the Law and Juſtice of the ancient <hi>Romans, (b)</hi> and of Nations. <hi>(a) Deut.</hi> 19.17, 18. <hi>John</hi> 7.51. <hi>Prov.</hi> 26.2. <hi>Job</hi> 29.16, 17. <hi>Gen.</hi> 3.8. <hi>Judges</hi> 19.30. <hi>(b) Acts</hi> 25.5, 7, 8, 10, 16.</p>
+            <p>And although it has been openly manifeſted, upon trial of <hi>Appeals</hi> at ſeveral Quarter-Seſſions, both for <hi>Middleſex</hi> and <hi>London,</hi> and other places, that the Depoſitions of divers Informers have been falſe in Fact, yet the great trouble and charge in the <hi>Traverſe</hi> of <hi>Appeals,</hi> and the great encouragement Informers have from <hi>Him</hi> who grants the moſt Warrants, hath been a diſcouragement to many from ſeeking ſuch difficult Remedy, conſidering alſo the treble Coſts againſt the <hi>Appellant,</hi> in caſe he ſucceeds not, or is not acquitted upon <hi>Tryal:</hi> Whereas there is no Coſts nor Reſtitution awarded or given againſt the Informers, for unjuſt Proſecution. Some alſo having refuſed to grant <hi>Appeals,</hi> others denyed Copies of Warrants to prevent <hi>Appeals:</hi> Which, whether this be equal or juſt, pray conſider, ye that are Wiſe and Judicious Men? And whether it be for the <hi>King's Honour</hi> &amp; the <hi>Peoples Interest,</hi> that Idle, Drunken, Extravagant Informers ſhould either be encouraged or ſuffer'd to go on thus to Ruin <hi>Trade, Husbandry</hi> and <hi>Families,</hi> or to command and threaten <hi>Juſtices of Peace,</hi> with the <hi>Forfeiture of an Hundred Pound,</hi> if they do not make Convictions, and iſſue out War<g ref="char:EOLhyphen"/>rants upon their bare Informations and uncertain Depoſitions, frequently in the abſence of the Accuſed.</p>
+            <p>And <hi>Laſtly,</hi> One third part of the Fines being aſſigned to the <hi>King,</hi> he can only Remit that, but the <hi>Informers</hi> and <hi>Poor</hi> being aſſigned two third parts, ſeems not to allow him to Remit them, how much cauſe ſo ever may appear to him, to extend his Favour in that caſe: Is not this againſt the <hi>King's Prerogative,</hi> to reſtrain his <hi>Soveraign Clemency?</hi> And how far it Reflects upon the Government, and is Scandalous thereto, for <hi>Beggarly Rude Informers</hi> (ſome of them <hi>Confident Women)</hi> not only to command, threaten and diſquiet <hi>Justices, Peace-Officers, &amp;c.</hi> but to deſtroy the King's honeſt induſtrious and peaceable Subjects, in their <hi>Properties</hi> and <hi>Eſtates,</hi> is worthy of your ſerious Conſiderations? And whether the ſaid <hi>Conventicle-Act</hi> ought not therefore juſtly to be Repealed? A noted Inſtance of the like caſe, we have, con<g ref="char:EOLhyphen"/>cerning the Statute of the 11 <hi>Hen.</hi> 7. <hi>ch.</hi> 3. (for determining certain Offences and Contempts, ☞ only upon Informers Proſecutions) being Repealed in the firſt year of K. <hi>Hen.</hi> 8. <hi>ch.</hi> 6. tho' that, in ſome reſpects, was more tolerable than this.</p>
+            <p>Be pleaſed to make our caſe your own, and <hi>Do to us, as you would be done unto;</hi> as you would not be <hi>Oppreſſed</hi> or <hi>Destroyed</hi> in your <hi>Perſons</hi> or <hi>Estates,</hi> nor have your <hi>Properties In<g ref="char:EOLhyphen"/>vaded</hi> and <hi>Poſterities Ruined</hi> for Serving and Worſhipping Almighty God (that made all Mankind) according to your Perſwaſions and Conſciences, but would, no doubt, enjoy the Liberty thereof: So we intreat you to allow the ſame Liberty to <hi>Tender Conſciences,</hi> that live peaceably under the Government, as you would enjoy your ſelves; and to <hi>Diſannul</hi> the ſaid <hi>Conventicle Act,</hi> and to <hi>Stop</hi> theſe <hi>devouring Informers,</hi> and alſo take away all <hi>Sanguinary Laws, Corporal</hi> and <hi>Pecuniary Puniſhments,</hi> meerly on the ſcore of <hi>Religion</hi> and <hi>Conſcience;</hi> and let not the <hi>Ruin</hi> and <hi>Cry</hi> of the <hi>Widdow, Fatherleſs</hi> and <hi>Innocent Families</hi> lie upon this Nation, nor at your Door, who have not only a great Truſt Repoſed in you for the Proſperity and Good of the whole Nation, but alſo do profeſs <hi>Chriſtianity,</hi> and the tender Religion of our Lord Jeſus Chriſt.</p>
+            <p>And notwithſtanding all theſe long ſuſtain'd Extremities, we the ſaid ſuffering People, do ſolemnly profeſs and declare in the ſight of the All-ſeeing God, who is the Searcher of Hearts, That as we have never been found in any <hi>Seditious</hi> or <hi>Treaſonable Deſigns</hi> (they be<g ref="char:EOLhyphen"/>ing wholly contrary to our Chriſtian Principle and Profeſſion) ſo we have nothing but <hi>Good Will</hi> and <hi>true Chriſtian Affection</hi> to the <hi>King</hi> and <hi>Government,</hi> ſincerely deſiring His and Your Safety, Proſperity and Concurrence in <hi>Mercy</hi> and <hi>Truth,</hi> for the good of the whole Kingdom.</p>
+            <p>Having thus given you, in ſhort, the general ſtate of our Suffering Caſe, in matter of Fact, without Perſonal Reflection, We, in <hi>Chriſtian Humility,</hi> and for <hi>Chriſt's ſake,</hi> Intreat, that you will Tenderly and Charitably conſider of the Premiſſes, and find out ſome Effectual Expedient or Way for our <hi>Relief</hi> from <hi>Priſons, Spoil</hi> and <hi>Ruin.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
